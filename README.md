@@ -34,4 +34,4 @@ Years since I have started to program, I have been transiting from **C** to **C+
 
 - LinkedIn <a href="https://www.linkedin.com/in/nythyatdora">Thyatdora Ny</a>
 - Twitter <a href="https://www.twitter.com/nythyatdora">@nythyatdora</a>
-- Instagram <a href="https://www.instagram.com/user/developerwhodesigns">@DeveloperWhoDesigns</a>
+- Instagram <a href="https://www.instagram.com/developerwhodesigns">@DeveloperWhoDesigns</a>
