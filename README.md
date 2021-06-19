@@ -14,9 +14,9 @@ Years since I have started to program, I have been transiting from **C** to **C+
   </code>
 </h4>
 <p>
-  <img src="./static/mongodb.png" height=30 hspace=0>
+  <img src="./static/react.png" height=30 hspace=0>
+  <img src="./static/mongodb.png" height=30 hspace=4>
   <img src="./static/expressjs.png" height=30 hspace=4>
-  <img src="./static/react.png" height=30 hspace=4>
   <img src="./static/nodejs.png" height=30 hspace=4>
   <img src="./static/js.png" height=30 hspace=4>
   <img src="./static/nextjs.png" height=30 hspace=4>
