@@ -4,10 +4,9 @@
   </code>
 </h4>
 
-My name is **Dora**.
-I am a full stack developer who is **heavy empathize** on developing and designing __*the best experience for users*__.
+My name is **Dora**. I am a full-stack developer who is **heavy empathizes** with developing and designing __*the best experience for users*__.
 
-Years since I have started to program, I have been transiting from **C** to **C++** to **C#** then **Java**, and now **JavaScript**, it is one of most technology that I am really enjoy working with. Shortly after I got introduced to **React**, and **React Native**, I am so in love with these technologies so much that I decided to be stick with it.
+Years since I have started to program, I have been transiting from **C** to **C++** to **C#** then **Java**, and now **JavaScript**, it is one of the most technology that I really enjoy working with. Shortly after I got introduced to **React**, and **React Native**, I am so in love with these technologies so much that I decided to be stick with them.
 
 <h4>
   <code>
