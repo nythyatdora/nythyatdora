@@ -1,0 +1,24 @@
+{
+  "name": "nythyatdora",
+  "version": "1.0.0",
+  "description": "<img src=\"./static/github-hero.png\"/>",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nythyatdora/nythyatdora.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "",
+	"config": {
+		"commitizen": {
+			"path": "cz-emoji"
+		}
+	},
+  "bugs": {
+    "url": "https://github.com/nythyatdora/nythyatdora/issues"
+  },
+  "homepage": "https://github.com/nythyatdora/nythyatdora#readme"
+}
