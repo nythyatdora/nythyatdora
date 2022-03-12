@@ -25,37 +25,12 @@ that I decided to be stick with them.
   </code>
 </h4>
 
-<h5>
-  <code>
-   👽 Languages
-  </code>
-</h5>
-
-[![Programming Languages](https://skillicons.dev/icons?i=c,cpp,ts,js,wasm&theme=light)](https://skillicons.dev)
-
-<h5>
-  <code>
-	 💅 Frontend
-  </code>
-</h5>
-
-[![Frontend](https://skillicons.dev/icons?i=react,next,vue,gatsby,tailwind&theme=light)](https://skillicons.dev)
-
-<h5>
-  <code>
-    🧠 Backend
-  </code>
-</h5>
-
-[![Backend](https://skillicons.dev/icons?i=nodejs,java,prisma,postgres,redis&theme=light)](https://skillicons.dev)
-
-<h5>
-  <code>
-    ⭐️ Others
-  </code>
-</h5>
-
-[![Backend](https://skillicons.dev/icons?i=git,bash,vim,vscode,figma&theme=light)](https://skillicons.dev)
+|   |   |
+|---|---|
+| ```👽 Languages```  | [![Programming Languages](https://skillicons.dev/icons?i=c,cpp,ts,js,wasm&theme=light)](https://skillicons.dev) |
+| ```💅 Frontend``` | [![Frontend](https://skillicons.dev/icons?i=react,next,vue,gatsby,tailwind&theme=light)](https://skillicons.dev)  |
+| ```🧠 Backend``` | [![Backend](https://skillicons.dev/icons?i=nodejs,java,prisma,postgres,redis&theme=light)](https://skillicons.dev) |
+| ```⭐️ Others``` | [![Backend](https://skillicons.dev/icons?i=git,bash,vim,vscode,figma&theme=light)](https://skillicons.dev) |
 
 <br/>
 
