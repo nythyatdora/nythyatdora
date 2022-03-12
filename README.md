@@ -25,7 +25,7 @@ that I decided to be stick with them.
   </code>
 </h4>
 
-|   |   |
+| ```Names``` | ```Stacks```  |
 |---|---|
 | ```👽 Languages```  | [![Programming Languages](https://skillicons.dev/icons?i=c,cpp,ts,js,wasm&theme=light)](https://skillicons.dev) |
 | ```💅 Frontend``` | [![Frontend](https://skillicons.dev/icons?i=react,next,vue,gatsby,tailwind&theme=light)](https://skillicons.dev)  |
