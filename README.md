@@ -68,4 +68,4 @@ that I decided to be stick with them.
 - LinkedIn <a href="https://www.linkedin.com/in/nythyatdora">Thyatdora Ny</a>
 - Twitter <a href="https://www.twitter.com/nythyatdora">@nythyatdora</a>
 - Instagram
-  <a href="https://www.instagram.com/user/developerwhodesigns">@DeveloperWhoDesigns</a>
+  <a href="https://www.instagram.com/developerwhodesigns">@DeveloperWhoDesigns</a>
